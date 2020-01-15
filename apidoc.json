@@ -1,0 +1,7 @@
+{
+  "name": "stepFormApp",
+  "version": "1.0.0",
+  "description": "This is the documentation for the stepForm App",
+  "title": "Step Form App API documentation",
+  "url" : "https://api.localhost:8000"
+}
